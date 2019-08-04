@@ -47,7 +47,7 @@ Javascript loaded html pages are much more difficult to scrape. The HTML is not 
         GW12                 35               9       2,798,661          669          31,820    £101.2
      ...
 
-    WANT  (SAS dataset slightly abreviated)
+    WANT  (SAS dataset slightly abbreviated)
     ===================
 
     Up to 40 obs from wantdf total obs=20
